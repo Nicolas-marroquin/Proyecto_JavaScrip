@@ -1,8 +1,8 @@
-##proyecto_activad_4
+## _proyecto_activad_4
 
-el programa recopila  informacion personal para poder brindarle la cotizacion de un seguro 
+_El programa recopila  informacion personal para poder brindarle la cotizacion de un seguro 
 en la empresa de seguros TK-U.
-el precio base del seguro es de 2000
+el precio base del seguro es de 2000_
 
 te pide que respondas ciertas preguntas como tipo formulario 
 dependiendo de las respuestas se ira haciendo un recargo por tu edad , la edad del conyuge en todo caso tenga ,
