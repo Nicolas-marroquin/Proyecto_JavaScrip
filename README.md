@@ -28,4 +28,4 @@ el seguro que cotizaste._
 
 _3.agregar un determinado tiempo de cuanto durara el seguro que estas cotizando tipo contrato_ 
 
-_4. si entodo caso no quiera realizar la cotizacion mediante este programa otorgar numeros de contacto directo asia personal que brinde apoyo _
+_4. si entodo caso no quiera realizar la cotizacion mediante este programa otorgar numeros de contacto directo asia personal que brinde apoyo_
