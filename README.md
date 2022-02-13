@@ -31,5 +31,5 @@ _3.agregar un determinado tiempo de cuanto durara el seguro que estas cotizando 
 _4. si entodo caso no quiera realizar la cotizacion mediante este programa otorgar numeros de contacto directo asia personal que brinde apoyo_
 
 
-### _nombre:Jose Nicolas de Jesus Marroquin solis _
+### _nombre:Jose Nicolas de Jesus Marroquin solis_
 ### _carnet: 22002895_
