@@ -1,0 +1,47 @@
+Descripción del problema 
+
+
+El problema que se nos presenta es que la empresa de seguros TK-U realiza cientos de cotizaciones diarias para sus 
+posibles clientes asegurados. 
+
+La raíz del problema está en que ellos realizan cotizaciones manualmente  y eso hace que no generen tantas cotizaciones
+ y las personas pierdan mucho tiempo esperando que las atiendan y las cotizaciones lleguen muy tarde esto genera perdida 
+a gran escala de nuevos posibles clientes 
+
+Algoritmo 
+
+Se le pide el nombre del cliente ha asegurado
+
+1. Le pedimos su edad si la edad es mayor a 18 años se sigue con el proceso de seguro si la edad del cliente 
+es menor a 18 años, no se sigue con el proceso.
+Tomando en  cuenta la edad del cliente se le estará sumando un recargo sobre el precio base del seguro .
+El precio base del seguro es de 2000
+	Si la edad del asegurado esta entre 18 años a 24 años se le ara un recargo del 10% sobre el precio base. 
+	Si la edad del asegurado esta entre 25 años a 49 años se le ara un recargo del 20% sobre el precio base.
+	Si la edad del asegurado es mayor a 50 años se le ara un recargo del 30% sobre el precio base. 
+2. Se le pregunta al asegurado/a  si actualmente está casado/a
+	Si la respuesta es “no”  omitimos esta parte 
+	Si la respuesta es “si” se le pide que nos de la edad de su cónyuge
+	Si la edad del cónyuge del asegurado/a esta entre 18 años a 24 años se le ara un recargo del 10% sobre el precio base. 
+	Si la edad del cónyuge del asegurado/a esta entre 25 años a 49 años se le ara un recargo del 20% sobre el precio base.
+	Si la edad del cónyuge del asegurado/a es mayor a 50 años se le ara un recargo del 30% sobre el precio base. 
+3. preguntamos si el asegurado/a tiene hijos /as 
+	Si la respuesta es “no” omitimos esta parte 
+	Si la respuesta es “si “se le pregunta al asegurado cuantos hijos tiene 
+Se le agrega un recargo del 20% sobre el precio base por cada hijo que tenga 
+
+4. Preguntamos al asegurado/a si tiene propiedades a su nombre 
+	 Si la respuesta es “no” omitimos esta parte
+	Si la respuesta es “si”
+Se le agregara un recargo del 35% sobre precio base por cada propiedad que tenga.
+
+5. solicitamos al asegurado/a que nos ingrese su salario 
+Se le ara un recargo de 5% sobre el salario del asegurado/a
+
+6. Sumamos los recargos por edad del asegurado/a + recargos por edad del cónyuge si llegara a tener + 
+	el recargo por cada hijo si tuviera hijos/as + el recargo por propiedades si llegara a tener + 
+	recargo por sueldo del asegurado 
+
+	Esto nos dará un total de recargos 
+
+7. Sumamos total de recargos al precio base  y nos dará  el precio final de la cotización del seguro 
