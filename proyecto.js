@@ -59,7 +59,7 @@ if("SI" == hijos.toUpperCase()){
  cantidad_hijos = prompt("cuantos hijos/as tiene")
  } 
 //conviertiendo las edades ingresadas a numeros
-//var cantidad
+
 var cantidad_hijos=parseInt(cantidad_hijos)
 var cantidad_hijos_numero=0
 if ("SI"== hijos.toUpperCase()){
