@@ -18,6 +18,7 @@ y estos dos se sumaran para darte el precio final de tu cotizacion_
 ## _que partes del problema hay que considerar_
 
 _1. la edad de los hijos_
+
 _2. si en todo caso no este casado pero si tenga una pareja tomarla como conyuge_
 
 ## _mejoras del programa_ 
